@@ -1,3 +1,19 @@
+### Rules of the game
+Game will show a set of stars between 1 - 9.
+You may select numbers that match the count of stars, selected numbers will be shown to the right.
+For example, 5 stars are shown. You can select 5 OR (3 + 2). (NOTE: Game uses addition only, not multiplication)
+
+After you selected the numbers you press the EQUAL button, it's flagged green if it passes or red if it doesn't add up.
+Press the button again to confirm your choice. The confirmation will flag the selected numbers as disabled.
+Therefor you may only use a number once.
+
+If you can't find a possible solution you may use the refresh button, this will redraw the stars at random.
+You may use this button a total of five times.
+
+You win if you have used all numbers!
+You will lose if the time runs out or you have no possible solutions left after you used all your resets.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
