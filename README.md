@@ -1,4 +1,4 @@
-### Rules of the game
+## Rules of the game
 Game will show a set of stars between 1 - 9.
 You may select numbers that match the count of stars, selected numbers will be shown to the right.
 For example, 5 stars are shown. You can select 5 OR (3 + 2). (NOTE: Game uses addition only, not multiplication)
@@ -14,9 +14,11 @@ You win if you have used all numbers!
 You will lose if the time runs out or you have no possible solutions left after you used all your resets.
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
